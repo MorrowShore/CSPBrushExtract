@@ -4,6 +4,9 @@ Extract Parameters &amp; Brush Tip Bitmap from CSP .sut Brushes.
 ---
 
 ### Usage:
+
+Put the script and the .sut brush in the same folder, then open command line in that folder and run:
+
 ```python cspbrushextract.py brush.sut```
 
 ---
@@ -19,6 +22,7 @@ Extract Parameters &amp; Brush Tip Bitmap from CSP .sut Brushes.
 ---
 
 As per option 2, some of the parameters are interpreted / decoded, but if you want to see the raw output, run:
+
 ```python cspbrushextract.py brush.sut --raw```
 
 ---
