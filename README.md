@@ -1,5 +1,5 @@
 # CSPBrushExtract
-Extract Parameters &amp; Brush Tip Bitmap from CSP .sut Brushes.
+Extract Parameters &amp; Brush Tip Bitmap from Clip Studio Paint .sut Brushes.
 
 ---
 
